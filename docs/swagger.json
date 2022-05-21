@@ -1,7 +1,13 @@
 {
     "swagger": "2.0",
     "info": {
-        "contact": {}
+        "description": "このswaggerはswaggerの見本apiです",
+        "title": "go-swagger_test",
+        "contact": {},
+        "license": {
+            "name": "Naoki Maruyama"
+        },
+        "version": "1.0"
     },
     "paths": {}
 }

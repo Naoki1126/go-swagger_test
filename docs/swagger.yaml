@@ -1,4 +1,9 @@
 info:
   contact: {}
+  description: このswaggerはswaggerの見本apiです
+  license:
+    name: Naoki Maruyama
+  title: go-swagger_test
+  version: "1.0"
 paths: {}
 swagger: "2.0"
